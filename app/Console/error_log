@@ -1,0 +1,1 @@
+[25-Dec-2016 12:44:44 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/voupoico/public_html/app/Console/Kernel.php on line 9

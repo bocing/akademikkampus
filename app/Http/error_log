@@ -1,0 +1,2 @@
+[25-Dec-2016 07:31:50 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/voupoico/public_html/app/Http/Kernel.php on line 8
+[25-Dec-2016 14:19:14 America/Chicago] PHP Fatal error:  Class 'Route' not found in /home/voupoico/public_html/app/Http/routesxxx.php on line 22

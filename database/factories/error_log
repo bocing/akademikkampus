@@ -1,0 +1,2 @@
+[26-Dec-2016 06:59:13 America/Chicago] PHP Notice:  Undefined variable: factory in /home/voupoico/public_html/database/factories/ModelFactory.php on line 14
+[26-Dec-2016 06:59:13 America/Chicago] PHP Fatal error:  Call to a member function define() on null in /home/voupoico/public_html/database/factories/ModelFactory.php on line 14

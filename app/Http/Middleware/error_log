@@ -1,0 +1,2 @@
+[26-Dec-2016 21:28:26 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/voupoico/public_html/app/Http/Middleware/EncryptCookies.php on line 8
+[26-Dec-2016 21:29:18 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/voupoico/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 8

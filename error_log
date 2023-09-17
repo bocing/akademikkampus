@@ -1,0 +1,96 @@
+[26-Sep-2018 01:55:28 UTC] PHP Parse error:  syntax error, unexpected '' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 8487
+[26-Sep-2018 01:55:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 3040
+[26-Sep-2018 02:00:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 4481
+[26-Sep-2018 02:06:51 UTC] PHP Parse error:  syntax error, unexpected ''idd' (T_ENCAPSED_AND_WHITESPACE) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 6683
+[26-Sep-2018 02:16:59 UTC] PHP Parse error:  syntax error, unexpected ''k' (T_ENCAPSED_AND_WHITESPACE) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 7018
+[26-Sep-2018 02:20:34 UTC] PHP Parse error:  syntax error, unexpected ''hrgrata'=>$hrgrata           ' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 7564
+[26-Sep-2018 02:21:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 8190
+[26-Sep-2018 06:37:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5648
+[26-Sep-2018 06:38:07 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5648
+[26-Sep-2018 06:38:58 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5666
+[26-Sep-2018 07:01:22 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/1580ac5d7b1372dbf3db435c8880f6288132c705.php on line 56
+[26-Sep-2018 07:58:21 UTC] PHP Parse error:  syntax error, unexpected '$parent2' (T_VARIABLE) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/1580ac5d7b1372dbf3db435c8880f6288132c705.php on line 134
+[26-Sep-2018 12:08:54 UTC] PHP Parse error:  syntax error, unexpected '14' (T_LNUMBER) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1139
+[26-Sep-2018 12:17:50 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5403
+[26-Sep-2018 12:21:23 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5403
+[26-Sep-2018 16:04:23 UTC] PHP Fatal error:  Call to undefined function dcrypt() in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/82c9ee790b39b2deb2f0cefd8ca2ebf2c44de140.php on line 13
+[27-Sep-2018 02:38:15 UTC] PHP Parse error:  syntax error, unexpected '$key' (T_VARIABLE), expecting ',' or ';' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/3e6be0b70fbe1460364b807a930712ea3d3a666c.php on line 432
+[27-Sep-2018 02:39:26 UTC] PHP Parse error:  syntax error, unexpected '$key' (T_VARIABLE), expecting ',' or ';' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/3e6be0b70fbe1460364b807a930712ea3d3a666c.php on line 432
+[27-Sep-2018 03:31:51 UTC] PHP Parse error:  syntax error, unexpected '$idwali' (T_VARIABLE) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/3e6be0b70fbe1460364b807a930712ea3d3a666c.php on line 8
+[27-Sep-2018 06:59:33 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1579
+[27-Sep-2018 12:19:31 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5696
+[28-Sep-2018 07:29:35 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5832
+[28-Sep-2018 14:04:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 741
+[29-Sep-2018 05:58:40 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5827
+[29-Sep-2018 06:32:00 UTC] PHP Parse error:  syntax error, unexpected 'p' (T_STRING), expecting function (T_FUNCTION) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 3464
+[29-Sep-2018 07:36:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/6b1cccf8cdf1659d31efa9245f8aadd912f4042d.php on line 50
+[29-Sep-2018 09:48:15 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/f02da34b1a19712c751a9afdfc3c48832510fb8b.php on line 134
+[29-Sep-2018 09:49:28 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/f02da34b1a19712c751a9afdfc3c48832510fb8b.php on line 134
+[29-Sep-2018 09:49:40 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/f02da34b1a19712c751a9afdfc3c48832510fb8b.php on line 134
+[29-Sep-2018 09:50:28 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/f02da34b1a19712c751a9afdfc3c48832510fb8b.php on line 134
+[05-Oct-2018 14:02:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 7297
+[05-Oct-2018 14:02:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 7297
+[08-Oct-2018 04:53:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1501
+[12-Nov-2018 06:55:25 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Siswa' not found in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 985
+[12-Nov-2018 06:56:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Siswa' not found in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 985
+[12-Nov-2018 06:56:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Siswa' not found in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 985
+[15-Nov-2018 03:38:55 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Siswa' not found in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 985
+[11-Dec-2018 17:54:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 146
+[11-Dec-2018 17:58:27 UTC] PHP Parse error:  syntax error, unexpected '$sosial_deskripsi' (T_VARIABLE) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 146
+[12-Dec-2018 15:48:19 UTC] PHP Parse error:  syntax error, unexpected ''role' (T_ENCAPSED_AND_WHITESPACE) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 7347
+[12-Dec-2018 16:47:54 UTC] PHP Parse error:  syntax error, unexpected '::get' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 7766
+[12-Dec-2018 16:53:05 UTC] PHP Parse error:  syntax error, unexpected 'dd' (T_STRING) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/6108d6fd08ce283776f2a6ce9e5b7402676cceb3.php on line 188
+[12-Dec-2018 16:59:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 469
+[12-Dec-2018 17:33:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 186
+[13-Dec-2018 03:20:50 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 344
+[13-Dec-2018 03:21:24 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 425
+[13-Dec-2018 03:21:28 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 425
+[13-Dec-2018 16:06:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 549
+[13-Dec-2018 16:06:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 547
+[13-Dec-2018 16:07:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 547
+[13-Dec-2018 16:11:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 627
+[13-Dec-2018 17:58:19 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::cetaknilai() in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5645
+[13-Dec-2018 17:58:29 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::cetaknilai() in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5645
+[13-Dec-2018 17:58:42 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::cetaknilai() in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5645
+[13-Dec-2018 17:58:47 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\AdminController::cetaknilai() in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 5645
+[14-Dec-2018 01:20:04 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/2e43dad039e40cf8e65a663b3a876486449e6391.php on line 545
+[14-Dec-2018 11:23:15 UTC] PHP Fatal error:  Call to undefined function tgl_raport() in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/d58951f47e954a26ba402233fba3eff881b789fa.php on line 473
+[14-Dec-2018 17:16:12 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1325
+[14-Dec-2018 17:16:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1325
+[14-Dec-2018 17:16:37 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1331
+[14-Dec-2018 17:17:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 515
+[14-Dec-2018 17:32:09 UTC] PHP Fatal error:  Call to a member function where() on integer in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1327
+[14-Dec-2018 17:32:13 UTC] PHP Fatal error:  Call to a member function where() on integer in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1327
+[14-Dec-2018 17:32:32 UTC] PHP Fatal error:  Call to a member function where() on integer in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1327
+[14-Dec-2018 17:32:39 UTC] PHP Fatal error:  Call to a member function where() on integer in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1327
+[14-Dec-2018 17:32:47 UTC] PHP Fatal error:  Call to a member function where() on integer in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1327
+[14-Dec-2018 17:32:54 UTC] PHP Fatal error:  Call to a member function where() on integer in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1327
+[14-Dec-2018 17:33:16 UTC] PHP Fatal error:  Call to a member function groupby() on integer in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1327
+[14-Dec-2018 17:33:46 UTC] PHP Fatal error:  Call to a member function groupby() on integer in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1327
+[14-Dec-2018 17:56:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1346
+[14-Dec-2018 17:56:07 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1346
+[14-Dec-2018 17:56:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1346
+[14-Dec-2018 17:56:22 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1794
+[14-Dec-2018 18:05:02 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 1357
+[14-Dec-2018 18:25:34 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/ea9138bc1b2eeadf5edc13842bb789b9e10d81ca.php on line 235
+[14-Dec-2018 18:27:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/ea9138bc1b2eeadf5edc13842bb789b9e10d81ca.php on line 235
+[14-Dec-2018 18:27:11 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/ea9138bc1b2eeadf5edc13842bb789b9e10d81ca.php on line 235
+[14-Dec-2018 18:28:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/ea9138bc1b2eeadf5edc13842bb789b9e10d81ca.php on line 235
+[15-Dec-2018 01:07:13 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/3276b93745b8e8d309932b4021cb7870c7f23e43.php on line 35
+[27-Dec-2018 06:43:43 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/d58951f47e954a26ba402233fba3eff881b789fa.php on line 178
+[27-Dec-2018 06:49:47 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/d58951f47e954a26ba402233fba3eff881b789fa.php on line 161
+[27-Dec-2018 06:52:48 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/d58951f47e954a26ba402233fba3eff881b789fa.php on line 116
+[27-Dec-2018 07:03:58 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/d58951f47e954a26ba402233fba3eff881b789fa.php on line 116
+[28-Dec-2018 06:22:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mansahil/nilai.mansahil.sch.id/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 337
+[28-Dec-2018 06:22:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 124715008 bytes) in /home/mansahil/nilai.mansahil.sch.id/vendor/symfony/http-foundation/Response.php on line 1165
+[29-Dec-2018 06:16:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/d58951f47e954a26ba402233fba3eff881b789fa.php on line 325
+[29-Dec-2018 06:17:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/d58951f47e954a26ba402233fba3eff881b789fa.php on line 313
+[05-Jan-2019 08:28:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/d58951f47e954a26ba402233fba3eff881b789fa.php on line 968
+[05-Jan-2019 08:39:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/d58951f47e954a26ba402233fba3eff881b789fa.php on line 687
+[05-Jan-2019 09:47:59 UTC] PHP Parse error:  syntax error, unexpected 'style2' (T_STRING), expecting ',' or ';' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/d58951f47e954a26ba402233fba3eff881b789fa.php on line 128
+[08-Mar-2019 01:31:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tahun' not found in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 718
+[14-Mar-2019 03:11:04 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 992
+[14-Mar-2019 03:15:28 UTC] PHP Parse error:  syntax error, unexpected ''menu.id_induk' (T_ENCAPSED_AND_WHITESPACE) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 551
+[14-Mar-2019 03:17:44 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mansahil/nilai.mansahil.sch.id/app/Http/Controllers/AdminController.php on line 992
+[19-Mar-2019 02:54:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/e6c11b05730145e39a5c18b624ed729b8f46e17e.php on line 201
+[21-Mar-2019 03:28:20 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/mansahil/nilai.mansahil.sch.id/storage/framework/views/71d5d0f6fe8c4916cfb9119d70a8e4af16addd58.php on line 23

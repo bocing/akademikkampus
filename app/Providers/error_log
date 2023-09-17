@@ -1,0 +1,5 @@
+[26-Dec-2016 07:50:53 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/voupoico/public_html/app/Providers/AppServiceProvider.php on line 8
+[26-Dec-2016 11:30:59 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/voupoico/public_html/app/Providers/AuthServiceProvider.php on line 9
+[26-Dec-2016 12:28:51 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/voupoico/public_html/app/Providers/EventServiceProvider.php on line 9
+[26-Dec-2016 12:32:59 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/voupoico/public_html/app/Providers/RouteServiceProvider.php on line 9
+[27-Dec-2016 12:23:09 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/voupoico/public_html/app/Providers/BroadcastServiceProvider.php on line 9

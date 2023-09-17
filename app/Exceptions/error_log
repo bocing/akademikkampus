@@ -1,0 +1,1 @@
+[25-Dec-2016 19:49:20 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/voupoico/public_html/app/Exceptions/Handler.php on line 10

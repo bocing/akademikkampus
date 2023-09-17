@@ -1,0 +1,10 @@
+[22-Dec-2016 08:54:51 America/Chicago] PHP Fatal error:  Call to undefined function env() in /home/voupoico/public_html/config/app.php on line 28
+[22-Dec-2016 08:55:42 America/Chicago] PHP Fatal error:  Call to undefined function env() in /home/voupoico/public_html/config/mail.php on line 19
+[22-Dec-2016 17:28:15 America/Chicago] PHP Fatal error:  Call to undefined function base_path() in /home/voupoico/public_html/config/view.php on line 17
+[22-Dec-2016 17:37:36 America/Chicago] PHP Fatal error:  Call to undefined function env() in /home/voupoico/public_html/config/cache.php on line 18
+[22-Dec-2016 17:47:48 America/Chicago] PHP Fatal error:  Call to undefined function env() in /home/voupoico/public_html/config/queue.php on line 18
+[22-Dec-2016 18:02:16 America/Chicago] PHP Fatal error:  Call to undefined function env() in /home/voupoico/public_html/config/session.php on line 19
+[22-Dec-2016 18:12:28 America/Chicago] PHP Fatal error:  Call to undefined function env() in /home/voupoico/public_html/config/database.php on line 29
+[22-Dec-2016 18:22:39 America/Chicago] PHP Fatal error:  Call to undefined function env() in /home/voupoico/public_html/config/services.php on line 18
+[22-Dec-2016 18:58:21 America/Chicago] PHP Fatal error:  Call to undefined function storage_path() in /home/voupoico/public_html/config/filesystems.php on line 48
+[22-Dec-2016 19:02:36 America/Chicago] PHP Fatal error:  Call to undefined function env() in /home/voupoico/public_html/config/broadcasting.php on line 18

@@ -1,0 +1,12 @@
+[22-Dec-2016 08:41:15 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/voupoico/public_html/app/User.php on line 8
+[22-Dec-2016 17:22:18 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/voupoico/public_html/app/Item.php on line 9
+[22-Dec-2016 17:23:10 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/voupoico/public_html/app/Role.php on line 8
+[22-Dec-2016 17:24:00 America/Chicago] PHP Fatal error:  Class 'Eloquent' not found in /home/voupoico/public_html/app/Extra.php on line 9
+[22-Dec-2016 17:26:33 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/voupoico/public_html/app/Admin.php on line 8
+[22-Dec-2016 17:27:24 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/voupoico/public_html/app/Product.php on line 8
+[22-Dec-2016 17:34:12 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/voupoico/public_html/app/Pegawai.php on line 8
+[22-Dec-2016 17:35:03 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/voupoico/public_html/app/Contact.php on line 8
+[22-Dec-2016 17:39:18 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/voupoico/public_html/app/Customer.php on line 7
+[22-Dec-2016 17:41:00 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/voupoico/public_html/app/Category.php on line 12
+[22-Dec-2016 17:51:12 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/voupoico/public_html/app/Marchant.php on line 7
+[22-Dec-2016 18:32:00 America/Chicago] PHP Fatal error:  Class 'Breadcrumbs' not found in /home/voupoico/public_html/app/breadcrumbs.php on line 8

@@ -1,0 +1,4 @@
+[06-Jan-2017 17:35:47 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/voupoico/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[06-Jan-2017 18:13:47 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/voupoico/public_html/app/Http/Controllers/Auth/RegisterController.php on line 11
+[06-Jan-2017 18:31:47 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/voupoico/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[06-Jan-2017 18:45:47 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/voupoico/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 9
